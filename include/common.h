@@ -16,3 +16,4 @@
 #include <fcntl.h>
 #include <sys/resource.h>
 #include <pthread.h>
+#include <semaphore.h>
